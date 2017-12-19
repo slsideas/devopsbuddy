@@ -8,3 +8,5 @@ stack example
 #edit remote
 
 #edit local
+
+#edit remote 2
