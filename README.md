@@ -13,3 +13,6 @@ stack example
 
 #edit local 3
 
+#edit remote 3
+
+
