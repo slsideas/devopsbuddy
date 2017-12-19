@@ -2,3 +2,5 @@
 stack example
 
 #edit
+
+#edit remote
