@@ -10,3 +10,6 @@ stack example
 #edit local
 
 #edit remote 2
+
+#edit remote 3
+
