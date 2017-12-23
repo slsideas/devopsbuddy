@@ -17,4 +17,5 @@ stack example
 
 #edit local 4
 
+#edit remote 4
 
