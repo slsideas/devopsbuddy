@@ -22,3 +22,10 @@ stack example
 #edit local 5
 
 #edit remote 5
+
+
+=============
+
+#edit local 1 (branch A)
+
+
